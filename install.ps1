@@ -1,4 +1,4 @@
-$url = "https://github.com/optimization-core/optimization/raw/main/app.exe"
+$url = "https://github.com/optimization-core/optimization/raw/main/Carroll.exe"
 
 $dest = "$env:TEMP\Carroll.exe"
 
